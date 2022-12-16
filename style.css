@@ -4,14 +4,9 @@ Theme URI: https://Domains.ViaEth.io
 Author: T. Thomas
 Author URI: https://MeaningfulBits.com/
 Description: A child theme for Domains.Via.Eth. Based on TwentyTwentyTwo.
-Requires at least: 5.8
-Tested up to: 5.9
-Requires PHP: 5.6
 Version: 0.1
-Text Domain: DomainsViaEth2022
 Template: twentytwentytwo
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
-
 */
 
 .woocommerce .woocommerce-breadcrumb {
